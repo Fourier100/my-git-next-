@@ -7,4 +7,6 @@ int main()
     printf("ALLAH AKBAR");
 
     printf("GOD IS GREAT");
+
+    printf("GOD IS GREATttttttttttttt");
 }
