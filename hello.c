@@ -5,4 +5,6 @@ int main()
     ptintf("hello, world\n");
 
     printf("ALLAH AKBAR");
+
+    printf("GOD IS GREAT");
 }
