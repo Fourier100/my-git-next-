@@ -9,4 +9,6 @@ int main()
     printf("GOD IS GREAT");
 
     printf("LAILA ILLA LAHU MUHAMMADU ROSULULAHI SALLALAHU ALLEHI WASALAM");
+
+    printf("GOD IS GREATtttttttttttttttttttt");
 }
